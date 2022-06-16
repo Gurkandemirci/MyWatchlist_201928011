@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyWatchlist_201928011</string>
+    <string name="enterMovieName">Enter Movie Name</string>
+    <string name="findMovie">Fınd Movıe</string>
+    <string name="showWatchList">Show WatchLıst</string>
+    <string name="add_to_watchlist">Add to WatchList</string>
+
+
+</resources>
